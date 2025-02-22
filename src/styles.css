@@ -1,0 +1,14 @@
+body{
+    background: url('../assets/bg.svg');
+    font-family: 'Geist', sans-serif;
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
